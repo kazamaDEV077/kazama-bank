@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203264348210",
+    "project_id": "mobile3-uas-kelompok-10-38209",
+    "storage_bucket": "mobile3-uas-kelompok-10-38209.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203264348210:android:07418a617340a11de6ec2b",
+        "android_client_info": {
+          "package_name": "com.example.mobile_3_uas_kelompok_10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzGxWTPZLW9yaVhE6rZodygEMnSjXwGpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
